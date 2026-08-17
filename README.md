@@ -21,6 +21,13 @@ A frontend finance and workforce management dashboard built with HTML, CSS and J
 <p>
   HTML · CSS · JavaScript · SVG
 </p>
+<h2>Live Demo</h2>
+
+<p>
+  <a href="https://ansham-dev.github.io/Finance-tracker/">View the Live Dashboard</a>
+</p>
+
+<hr>
 
 
 <hr>
